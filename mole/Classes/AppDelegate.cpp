@@ -42,17 +42,6 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // 効果音先読み
     CocosDenshion::SimpleAudioEngine::getInstance()->preloadEffect("se_slime.wav");
 
-    auto size = Director::getInstance()->getOpenGLView()->getFrameSize();
-    CCLOG("%f, %f", size.width, size.height);
-
-    // 値の保存
-    UserDefault::getInstance()->setIntegerForKey("score", 1000);
-    UserDefault::getInstance()->setDataForKey(<#(const char*)pKey#>, <#(const Data&)value#>)
-    UserDefault::getInstance()->flush();
-
-    // 値の読み込み
-    const int score = UserDefault::getInstance()->getIntegerForKey("score");
-
     return true;
 }
 
