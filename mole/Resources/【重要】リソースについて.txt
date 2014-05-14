@@ -1,0 +1,12 @@
+このディレクトリに含まれる画像および効果音は、ローカルでの動作確認にのみ使用して下さい。
+ウェブサイトや自作ゲーム等、公開される媒体での二次使用を禁止します。
+
+
+また、以下のリソースは商用利用可能なフリー素材を使用しています。
+[background.png]
+FirstSeedMaterial 様
+http://www.tekepon.net/fsm/
+
+[se_slime.wav]
+PANICPUMPKIN 様
+http://pansound.com/panicpumpkin/

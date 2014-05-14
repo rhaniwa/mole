@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67407e5f-7891-436d-b297-9889a4b1993e" name="Default" comment="" />
+    <ignored path="proj.ios_mac.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPhone_6.1" />
+  <component name="FavoritesManager">
+    <favorites_list name="mole" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CCDirector.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCDirector.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="151" column="19" selection-start="4660" selection-end="4660" vertical-scroll-proportion="0.0" vertical-offset="1677" max-vertical-offset="6929">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCGLViewProtocol.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/platform/CCGLViewProtocol.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="4" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="2808">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCData.h" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCData.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="13" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.35162288" vertical-offset="0" max-vertical-offset="1294">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCUserDefault.mm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCUserDefault.mm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="465" column="58" selection-start="11911" selection-end="11911" vertical-scroll-proportion="0.0" vertical-offset="5759" max-vertical-offset="7293">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="40" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.0" vertical-offset="637" max-vertical-offset="1027">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCLayer.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCLayer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="13" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="6825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameScene.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Classes/GameScene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="28" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="7" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="572">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCNode.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1238" column="12" selection-start="27888" selection-end="27888" vertical-scroll-proportion="0.0" vertical-offset="15782" max-vertical-offset="23335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameScene.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="187" column="0" selection-start="5536" selection-end="5536" vertical-scroll-proportion="0.0" vertical-offset="1696" max-vertical-offset="3809">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/CCAnimationCache.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/CCMap.h" />
+        <option value="$PROJECT_DIR$/../Classes/ResultLayer.h" />
+        <option value="$PROJECT_DIR$/../Classes/ResultLayer.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/TitleScene.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/TitleScene.h" />
+        <option value="$PROJECT_DIR$/../Classes/Slime.h" />
+        <option value="$PROJECT_DIR$/../Classes/Slime.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/CCAnimation.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/CCSpriteFrame.h" />
+        <option value="$PROJECT_DIR$/../Classes/TimeLabel.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameScene.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/platform/ios/CCApplication.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/platform/ios/CCApplication.mm" />
+        <option value="$PROJECT_DIR$/../Classes/GameScene.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/AppDelegate.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="2560" />
+    <option name="height" value="1414" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mole" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mole" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="XcodeSettings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mole.xcodeproj" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="mole iOS" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mole iOS">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="mole" TARGET_NAME="mole iOS" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="mole" RUN_TARGET_NAME="mole iOS" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="mole" TARGET_NAME="mole iOS" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mole iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="mole iOS" PROJECT_NAME="mole" TARGET_NAME="mole iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="mole" RUN_TARGET_NAME="mole iOS" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mole Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="mole Mac" PROJECT_NAME="mole" TARGET_NAME="mole Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="mole" RUN_TARGET_NAME="mole Mac" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="box2d iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="box2d iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="box2d iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="box2d Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="box2d Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="box2d Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="build all libs iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="build all libs iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="build all libs iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="build all libs Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="build all libs Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="build all libs Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="chipmunk iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="chipmunk iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="chipmunk iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="chipmunk Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="chipmunk Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="chipmunk Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2dx iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="cocos2dx iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="cocos2dx iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2dx Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="cocos2dx Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="cocos2dx Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2dx-extensions iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="cocos2dx-extensions iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="cocos2dx-extensions iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos2dx-extensions Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="cocos2dx-extensions Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="cocos2dx-extensions Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CocosDenshion iOS" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="CocosDenshion iOS" PROJECT_NAME="cocos2d_libs" TARGET_NAME="CocosDenshion iOS" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CocosDenshion Mac" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="CocosDenshion Mac" PROJECT_NAME="cocos2d_libs" TARGET_NAME="CocosDenshion Mac" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="14">
+      <item index="0" class="java.lang.String" itemvalue="Application.mole iOS" />
+      <item index="1" class="java.lang.String" itemvalue="Application.mole Mac" />
+      <item index="2" class="java.lang.String" itemvalue="Application.box2d iOS" />
+      <item index="3" class="java.lang.String" itemvalue="Application.box2d Mac" />
+      <item index="4" class="java.lang.String" itemvalue="Application.build all libs iOS" />
+      <item index="5" class="java.lang.String" itemvalue="Application.build all libs Mac" />
+      <item index="6" class="java.lang.String" itemvalue="Application.chipmunk iOS" />
+      <item index="7" class="java.lang.String" itemvalue="Application.chipmunk Mac" />
+      <item index="8" class="java.lang.String" itemvalue="Application.cocos2dx iOS" />
+      <item index="9" class="java.lang.String" itemvalue="Application.cocos2dx Mac" />
+      <item index="10" class="java.lang.String" itemvalue="Application.cocos2dx-extensions iOS" />
+      <item index="11" class="java.lang.String" itemvalue="Application.cocos2dx-extensions Mac" />
+      <item index="12" class="java.lang.String" itemvalue="Application.CocosDenshion iOS" />
+      <item index="13" class="java.lang.String" itemvalue="Application.CocosDenshion Mac" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67407e5f-7891-436d-b297-9889a4b1993e" name="Default" comment="" />
+      <created>1398250505828</created>
+      <updated>1398250505828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="2560" height="1414" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24990146" sideWeight="0.67121214" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3260212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="13" selection-start="3330" selection-end="3330" vertical-scroll-proportion="0.0" vertical-offset="596" max-vertical-offset="19643" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCLayer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="12" selection-start="2437" selection-end="2437" vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="13078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCEventDispatcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="854" column="47" selection-start="26101" selection-end="26101" vertical-scroll-proportion="0.0" vertical-offset="10660" max-vertical-offset="18239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCEventListenerTouch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="21" selection-start="2847" selection-end="2847" vertical-scroll-proportion="0.0" vertical-offset="553" max-vertical-offset="2509" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCEventListenerTouch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="48" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="1352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCScheduler.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="968" column="16" selection-start="25386" selection-end="25386" vertical-scroll-proportion="0.0" vertical-offset="12298" max-vertical-offset="14521" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1238" column="12" selection-start="27888" selection-end="27888" vertical-scroll-proportion="0.0" vertical-offset="15782" max-vertical-offset="23335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="0" selection-start="5536" selection-end="5536" vertical-scroll-proportion="0.0" vertical-offset="1696" max-vertical-offset="3809">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCLayer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="13" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="6825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="28" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCDirector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="19" selection-start="4660" selection-end="4660" vertical-scroll-proportion="0.0" vertical-offset="1677" max-vertical-offset="6929">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/platform/CCGLViewProtocol.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="2808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="40" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCUserDefault.mm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="465" column="58" selection-start="11911" selection-end="11911" vertical-scroll-proportion="0.0" vertical-offset="5759" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCData.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="13" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.35162288" vertical-offset="0" max-vertical-offset="1294">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
